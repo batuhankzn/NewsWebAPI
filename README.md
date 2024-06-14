@@ -1,6 +1,6 @@
 # Endpoints
-![alt text](./NewsWebAPI/img/endpoints.png)
+![endpoints](https://i.hizliresim.com/blkg7tk.png)
 
 # Output
-![alt text](./NewsWebAPI/img/json_output.png)
+![output](https://i.hizliresim.com/tu31gls.png)
 
